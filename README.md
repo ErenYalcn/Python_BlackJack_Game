@@ -3,5 +3,4 @@
  
  The language of the game is Turkish
 
-
-(http://url/to/blackjack1.png)
+![alt text](http://url/to/blackjack1.jpg)
